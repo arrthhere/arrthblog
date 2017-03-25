@@ -25,7 +25,7 @@ SECRET_KEY = '-7&$ckj=$k(**u3q!l7kd0hs5_iujr*ivr&6s5hxxz_!c4t(7k'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['arrthhere.pythonanywhere.com']
 
 
 # Application definition
